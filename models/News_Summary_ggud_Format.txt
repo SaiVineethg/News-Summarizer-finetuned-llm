@@ -1,1 +1,6 @@
-<< Dummy text file >> Please find the gguf file here in the drive :
+<< Dummy text file >> 
+Please find the gguf file here in the drive : 
+
+https://drive.google.com/file/d/1Jyh4XhUcF1QHfEadkz5Js0SSEWfaCE-B/view?usp=drive_link
+
+Please drop ur email for access of .gguf file

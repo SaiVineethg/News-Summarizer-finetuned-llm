@@ -1,4 +1,4 @@
-# News Summarizer — Llama 3.2 Fine-Tuning   
+# News Summarizer Multi Language — Llama 3.2 Fine-Tuning   
 
 A fine-tuned **Llama 3.2 1B Instruct** model for converting full news articles into concise **40–60 word news summaries**, similar to short-news applications.
 
@@ -412,4 +412,4 @@ Add the license appropriate for this repository and verify the licenses of all d
 
 **Sai Vineeth G**
 
-📧 Email: saivineethgaddam@example.com
+📧 Email: saivineethgaddam@gmail.com
