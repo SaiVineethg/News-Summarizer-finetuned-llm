@@ -90,7 +90,7 @@
 
 >Summarize this news article in exactly 60-100 words. Prioritize the main event, important numbers, people
 >involved, and immediate outcome. Do not include minor background details.
->Article:
+><br>**Article:**<br>
 >For many mutual fund investors, double-digit returns have gradually become an expected outcome, particularly
 >after several years of strong market performance. But the latest data from the Securities and Exchange Board
 >of India (SEBI) offers a reality check.
@@ -200,7 +200,7 @@
 
 >Summarize this news article in exactly 60-100 words. Prioritize the main event, important numbers,
 >people involved, and immediate outcome. Do not include minor background details.
->Article:
+><br>**Article:**<br>
 >Shiprocket shares made a strong market debut on the exchanges on Wednesday, following a 99.38 times
 >subscription to its initial public offering (IPO) in the primary market between August 12-14.
 >Shares of e-commerce enablement platform Shiprocket Ltd. were listed at Rs 131 per share on the NSE,
@@ -248,7 +248,7 @@
 
 >Summarize this news article in exactly 60-100 words. Prioritize the main event, important numbers,
 >people involved, and immediate outcome. Do not include minor background details.
->Article:
+><br>**Article:**<br>
 >Kathmandu: A video of Nepal’s Women, Children and Senior Citizens Affairs Minister Sita Badi
 >breastfeeding a 17-day-old baby rescued from a shelter home has gone viral on social media, drawing
 >widespread praise for what many have described as an extraordinary display of compassion and
@@ -406,7 +406,7 @@
 
 >Summarize this telugu news article in exactly 60-100 words in telugu langugage. Prioritize the main event,
 >important numbers, people involved, and immediate outcome. Do not include minor background details.
->Article:
+><br>**Article:**<br>
 >హైదరాబాద్ నగరంలోని ఆజామాబాద్‌, హైదరాబాద్‌ సిటీ-1 డివిజన్ల పరిధిలో విద్యుత్‌ ఫీడర్ల మరమ్మతు పనులు నిమిత్తం
 >గురువారం విద్యుత్‌ సరఫరాను నిలిపివేస్తున్నట్టు సీబీడీ ఏడీఈలు జి. నాగేశ్వరరావు, డి. వినోద్‌కుమార్‌ తెలిపారు.
 >గోల్కొండ క్రాస్‌రోడ్‌ 11కేవీ విద్యుత్‌ ఫీడర్‌ పరిధిలో ఉదయం 10 నుంచి 11 గంటల వరకు, తాళ్లబస్తీ పరిధిలో ఉదయం 11
@@ -431,7 +431,7 @@
 
 >Summarize this telugu news article in exactly 60-100 words in telugu langugage. Prioritize the main event,
 >important numbers, people involved, and immediate outcome. Do not include minor background details.
->Article:
+><br>**Article:**<br>
 >ఆన్‌లైన్‌ గేమింగ్‌, బెట్టింగ్‌ యాప్‌ల ప్రమోషన్‌ కేసులో నటి నిధి అగర్వాల్‌ను ఈడీ అధికారులు బుధవారం విచారించారు.
 >ఈ కేసులో విచారణకు హాజరు కావాలని ఆమెకు ఇటీవలే ఈడీ అధికారులు సమన్లు జారీ చేశారు. బెట్టింగ్‌ ఫ్లాట్‌ ఫామ్‌లను
 >ప్రమోట్‌ చేయడం, వాటి కోసం ఆమె చేసిన ప్రకటనలు, ఆయా సంస్ధలతో కుదుర్చుకున్న ఒప్పందాలు, అందుకున్న పారితోషికం,
@@ -456,7 +456,7 @@
 
 >Summarize this telugu news article in exactly 60-100 words in telugu langugage. Prioritize the main event,
 >important numbers, people involved, and immediate outcome. Do not include minor background details.
->Article:
+><br>**Article:**<br>
 >మహాభారతంలో ద్రోణాచార్యుడి విగ్రహాన్నే గురువుగా భావించి విలువిద్యలో ప్రావీణ్యం పొందిన ఏకలవ్యుడి కథను తలపించే
 >ఘటన ఆదిలాబాద్‌ జిల్లా తలమడుగు మండలంలోని కోసాయి గ్రామంలోని ప్రభుత్వ పాఠశాలలో జరుగుతోంది. ఈ పాఠశాలకు ఉపాధ్యాయులు
 >లేక కొద్ది రోజులుగా తరగతి గదుల తాళాలు కూడా తీయడం లేదు.
@@ -485,7 +485,7 @@
 
 >Summarize this telugu news article in exactly 60-100 words in telugu langugage. Prioritize the main event, 
 >important numbers, people involved, and immediate outcome. Do not include minor background details.
->Article:
+><br>**Article:**<br>
 >అంతర్జాతీయ భౌగోళిక రాజకీయ కారణాల నేపథ్యంలో గురువారం బంగారం ధరలు స్వల్ప తగ్గుదల నమోదు చేశాయి. ఉదయం 6 గంటల 
 >సమయంలో బంగారం ధరలు ఎలా ఉన్నాయో పరిశీలిద్దాం. ఇంటర్నెట్ డెస్క్: అంతర్జాతీయ భౌగోళిక రాజకీయ కారణాల నేపథ్యంలో 
 >గురువారం బంగారం ధరలు స్వల్ప తగ్గుదల నమోదు చేశాయి. గుడ్ రిటర్న్స్ వెబ్‌సైట్ ప్రకారం, గురువారం ఉదయం 6.00 గంటల 
@@ -521,7 +521,7 @@
 
 >Summarize this telugu news article in exactly 30-40 words in telugu langugage. Prioritize the main event,
 >important numbers, people involved, and immediate outcome. Do not include minor background details.
->Article:
+><br>**Article:**<br>
 >అమెరికా రాజకీయాల్లో రాణిస్తున్న తెలుగు సంతతి జాబితాలో మరో మహిళ చేరారు. తెలంగాణ మూలాలు ఉన్న సరితా కోమటిరెడ్డి
 >న్యూయార్క్‌ అటార్నీ జనరల్‌.
 >న్యూఢిల్లీ, ఆగస్టు 19: అమెరికా రాజకీయాల్లో రాణిస్తున్న తెలుగు సంతతి జాబితాలో మరో మహిళ చేరారు. తెలంగాణ మూలాలు
